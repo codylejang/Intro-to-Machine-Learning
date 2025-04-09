@@ -72,5 +72,5 @@ jupyter notebook
 
 **Cody Lejang**  
 B.S. in Cognitive Science, Specialization in Computing, minor in Data Science Engineering – UCLA  
-Interested in the intersection of machine learning, psychology, and biology.
+Interested in the intersection of machine learning, psychology, and data analytics.
 
